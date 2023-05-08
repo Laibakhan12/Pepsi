@@ -1,0 +1,75 @@
+.back{
+    background-color: #0065c3 ;
+}
+.GR{
+    background-color: #0065c3;
+}
+.blck{
+   
+    background-color: black;
+    
+    
+}
+
+@media all and (max-width: 500px) {
+   img{
+   width: 100%;
+   text-align: center;
+    margin-left: 0%;   
+    margin-right: 0%;   
+    overflow-x:unset;
+   
+   }
+   .pepsi{
+    height: 10%;
+    width: 10%;
+   }
+  }
+
+#vip{
+    height: 100% ;
+    width:100% ;
+    /* padding: 0 !important; */
+    /* margin: 0 !important; */
+    padding-bottom:-50px !important ;
+    object-fit: cover;
+    object-position: center center;
+    
+}
+.he{
+    height: 400px;
+}
+.ha{
+    height: 300px;
+    align-self: center;
+}
+#id{
+    height: 400px;
+}
+.class{
+    padding: 130px;
+}
+.blue{
+    /* background-color:#0065c3;
+     */
+     background-image: url(https://www.pepsi.com/en-us/uploads/images/nitro/Tablet_Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img{
+    height: 400px;
+}
+.sixe{
+    height: 150px;
+    width: 450px;
+}
+.cls{
+margin-left: -10PX;
+
+}
+.footer{
+    background-color: #0065c3;
+}
+.mx{
+    text-align: end;
+}
